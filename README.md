@@ -51,8 +51,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sh1pi/github-readme-stats"><img alt="sh1pi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sh1pi/github-readme-stats"><img alt="sh1pi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/sh1pi/github-readme-stats"><img alt="sh1pi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh1pi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sh1pi/github-readme-stats"><img alt="sh1pi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1pi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -71,7 +71,7 @@
 <a href = "https://www.sh1pi#7777.com/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <a href = "https://twitter.com/kawktus"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kawktus/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCe6CkzJAVCFG9bU-bzo4PhQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
